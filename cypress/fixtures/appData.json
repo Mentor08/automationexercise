@@ -1,0 +1,9 @@
+{
+  "email": "qat@mailinator.com",
+  "password": "123456",
+  "cardName": "Test Card",
+  "cardNumber": 410000000000,
+  "cardExpMonth": "01",
+  "cardExpYear": 1900,
+  "cardCVC": 123
+}
